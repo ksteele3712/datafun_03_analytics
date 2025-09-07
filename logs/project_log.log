@@ -22,3 +22,36 @@
 2025-09-06 22:14:03.548 | INFO     | __main__:write_txt_file:80 - Writing data to example_data\romeo.txt...
 2025-09-06 22:14:03.559 | INFO     | __main__:write_txt_file:84 - SUCCESS: Data written to example_data\romeo.txt
 2025-09-06 22:14:03.559 | INFO     | __main__:fetch_txt_file:60 - SUCCESS: Text file fetched and saved as romeo.txt
+2025-09-06 23:19:33.994 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-06 23:19:33.994 | INFO     | __main__:<module>:97 - Starting CSV processing...
+2025-09-06 23:19:33.995 | ERROR    | __main__:analyze_ladder_score:60 - Error processing CSV file: [Errno 2] No such file or directory: 'retrieved_data\\2020_happiness.csv'
+2025-09-06 23:24:50.855 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-06 23:24:50.855 | INFO     | __main__:<module>:95 - Starting CSV processing...
+2025-09-06 23:24:50.856 | ERROR    | __main__:analyze_ladder_score:60 - Error processing CSV file: [Errno 2] No such file or directory: 'practice_data\\2020_happiness.csv'
+2025-09-06 23:24:50.858 | INFO     | __main__:process_csv_file:88 - Processed CSV file: practice_data\2020_happiness.csv, Statistics saved to: practice_processed\happiness_ladder_score_stats.txt
+2025-09-06 23:24:50.859 | INFO     | __main__:<module>:97 - CSV processing complete.
+2025-09-06 23:27:58.425 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-06 23:27:58.426 | INFO     | __main__:<module>:95 - Starting CSV processing...
+2025-09-06 23:27:58.427 | ERROR    | __main__:analyze_ladder_score:60 - Error processing CSV file: [Errno 2] No such file or directory: 'practice_data\\2020_happiness.csv'
+2025-09-06 23:27:58.429 | INFO     | __main__:process_csv_file:88 - Processed CSV file: practice_data\2020_happiness.csv, Statistics saved to: practice_processed\happiness_ladder_score_stats.txt
+2025-09-06 23:27:58.430 | INFO     | __main__:<module>:97 - CSV processing complete.
+2025-09-06 23:33:25.671 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-06 23:33:25.671 | INFO     | __main__:<module>:95 - Starting CSV processing...
+2025-09-06 23:33:25.676 | INFO     | __main__:process_csv_file:88 - Processed CSV file: example_data\2020_happiness.csv, Statistics saved to: practice_processed\happiness_ladder_score_stats.txt
+2025-09-06 23:33:25.676 | INFO     | __main__:<module>:97 - CSV processing complete.
+2025-09-06 23:44:18.638 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-06 23:44:18.639 | INFO     | __main__:<module>:83 - Starting Excel processing...
+2025-09-06 23:44:18.665 | INFO     | __main__:process_excel_file:76 - Processed Excel file: example_data\Feedback.xlsx, Word count saved to: example_processed\excel_feedback_github_count.txt
+2025-09-06 23:44:18.666 | INFO     | __main__:<module>:85 - Excel processing complete.
+2025-09-06 23:51:06.257 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-06 23:51:06.257 | INFO     | __main__:<module>:118 - Starting JSON processing...
+2025-09-06 23:51:06.259 | INFO     | __main__:process_json_file:111 - Processed JSON file: example_data\astros.json, Results saved to: example_processed\json_astronauts_by_craft.txt
+2025-09-06 23:51:06.259 | INFO     | __main__:<module>:120 - JSON processing complete.
+2025-09-06 23:52:46.587 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-06 23:52:46.587 | INFO     | __main__:<module>:72 - Starting text processing...
+2025-09-06 23:52:46.590 | INFO     | __main__:process_text_file:65 - Processed text file: example_data\romeo.txt, Word count saved to: example_processed\text_romeo_word_count.txt
+2025-09-06 23:52:46.591 | INFO     | __main__:<module>:74 - Text processing complete.
+2025-09-07 00:05:59.547 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-07 00:05:59.548 | INFO     | __main__:<module>:95 - Starting CSV processing...
+2025-09-07 00:05:59.553 | INFO     | __main__:process_csv_file:88 - Processed CSV file: example_data\2020_happiness.csv, Statistics saved to: example_processed\happiness_ladder_score_stats.txt
+2025-09-07 00:05:59.553 | INFO     | __main__:<module>:97 - CSV processing complete.
