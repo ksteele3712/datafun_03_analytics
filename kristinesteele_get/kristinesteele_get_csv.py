@@ -72,7 +72,7 @@ def fetch_and_extract_usda_csv(folder_name: str, zip_filename: str, csv_filename
 def main():
     """Main function to fetch and extract USDA Foundation Foods CSV file."""
     # URL for USDA Foundation Foods CSV zip
-    url = "https://fdc.nal.usda.gov/fdc-datasets/FoodData_Central_foundation_food_csv_2023-10-04.zip"
+    url = "https://fdc.nal.usda.gov/fdc-datasets/FoodData_Central_foundation_food_csv_2024-10-01.zip"
     folder_name = FETCHED_DATA_DIR
     zip_filename = "usda_foundation_foods.zip"
     csv_filename = "usda_foundation_foods.csv"

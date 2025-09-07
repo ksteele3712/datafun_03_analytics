@@ -85,3 +85,6 @@
 2025-09-07 01:23:46.092 | INFO     | __main__:<module>:45 - Starting text processing...
 2025-09-07 01:23:46.096 | INFO     | __main__:process_text_file:36 - Processed text file: example_data\romeo.txt, Word count saved to: example_processed\text_romeo_word_count.txt
 2025-09-07 01:23:46.096 | INFO     | __main__:<module>:47 - Text processing complete.
+2025-09-07 02:45:29.660 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-07 02:52:35.539 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-07 02:57:43.576 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
