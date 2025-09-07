@@ -11,7 +11,7 @@ import csv
 import statistics
 import sys
 
-sys.path.append(str(pathlib.Path(__file__).resolve().parent))
+sys.path.append(str(pathlib.Path(__file__).resolve().parent.parent))
 from utils_logger import logger
 
 #####################################

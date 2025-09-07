@@ -10,7 +10,7 @@ import pathlib
 import sys
 import json
 
-sys.path.append(str(pathlib.Path(__file__).resolve().parent))
+sys.path.append(str(pathlib.Path(__file__).resolve().parent.parent))
 from utils_logger import logger
 
 #####################################

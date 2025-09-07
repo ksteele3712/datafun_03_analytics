@@ -55,3 +55,33 @@
 2025-09-07 00:05:59.548 | INFO     | __main__:<module>:95 - Starting CSV processing...
 2025-09-07 00:05:59.553 | INFO     | __main__:process_csv_file:88 - Processed CSV file: example_data\2020_happiness.csv, Statistics saved to: example_processed\happiness_ladder_score_stats.txt
 2025-09-07 00:05:59.553 | INFO     | __main__:<module>:97 - CSV processing complete.
+2025-09-07 01:10:13.403 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-07 01:10:13.404 | INFO     | __main__:main:61 - Starting CSV fetch demonstration...
+2025-09-07 01:10:14.105 | INFO     | __main__:write_csv_file:50 - Wrote CSV data to example_data\2020_happiness.csv
+2025-09-07 01:10:14.106 | INFO     | __main__:fetch_csv_file:41 - Fetched CSV file from https://raw.githubusercontent.com/MainakRepositor/Datasets/master/World%20Happiness%20Data/2020.csv and saved to example_data/2020_happiness.csv
+2025-09-07 01:12:24.377 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-07 01:12:24.378 | INFO     | __main__:main:61 - Starting Excel fetch demonstration...
+2025-09-07 01:12:25.054 | INFO     | __main__:write_excel_file:50 - Wrote Excel data to example_data\Feedback.xlsx
+2025-09-07 01:12:25.054 | INFO     | __main__:fetch_excel_file:41 - Fetched Excel file from https://raw.githubusercontent.com/denisecase/datafun-03-analytics/main/hosted/Feedback.xlsx and saved to example_data/Feedback.xlsx
+2025-09-07 01:14:14.848 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-07 01:14:14.848 | INFO     | __main__:main:61 - Starting JSON fetch demonstration...
+2025-09-07 01:16:04.517 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-07 01:16:04.517 | INFO     | __main__:main:61 - Starting text fetch demonstration...
+2025-09-07 01:16:05.312 | INFO     | __main__:write_txt_file:50 - Wrote text data to example_data\romeo.txt
+2025-09-07 01:16:05.313 | INFO     | __main__:fetch_txt_file:41 - Fetched text file from https://raw.githubusercontent.com/denisecase/datafun-03-analytics/main/hosted/romeo.txt and saved to example_data/romeo.txt
+2025-09-07 01:18:32.130 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-07 01:18:32.130 | INFO     | __main__:<module>:73 - Starting CSV processing...
+2025-09-07 01:18:32.134 | INFO     | __main__:process_csv_file:66 - Processed CSV file: example_data\2020_happiness.csv, Statistics saved to: example_processed\happiness_ladder_score_stats.txt
+2025-09-07 01:18:32.135 | INFO     | __main__:<module>:75 - CSV processing complete.
+2025-09-07 01:20:09.796 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-07 01:20:09.797 | INFO     | __main__:<module>:58 - Starting Excel processing...
+2025-09-07 01:20:09.822 | INFO     | __main__:process_excel_file:51 - Processed Excel file: example_data\Feedback.xlsx, Word count saved to: example_processed\excel_feedback_github_count.txt
+2025-09-07 01:20:09.822 | INFO     | __main__:<module>:60 - Excel processing complete.
+2025-09-07 01:22:03.085 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-07 01:22:03.085 | INFO     | __main__:<module>:52 - Starting JSON processing...
+2025-09-07 01:22:03.088 | INFO     | __main__:process_json_file:43 - Processed JSON file: example_data\astros.json, Astronauts by craft saved to: example_processed\json_astronauts_by_craft.txt
+2025-09-07 01:22:03.089 | INFO     | __main__:<module>:54 - JSON processing complete.
+2025-09-07 01:23:46.092 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-07 01:23:46.092 | INFO     | __main__:<module>:45 - Starting text processing...
+2025-09-07 01:23:46.096 | INFO     | __main__:process_text_file:36 - Processed text file: example_data\romeo.txt, Word count saved to: example_processed\text_romeo_word_count.txt
+2025-09-07 01:23:46.096 | INFO     | __main__:<module>:47 - Text processing complete.

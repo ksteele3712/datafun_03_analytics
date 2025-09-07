@@ -18,7 +18,7 @@ import sys
 import requests
 
 # Ensure project root is in sys.path for local imports
-sys.path.append(str(pathlib.Path(__file__).resolve().parent))
+sys.path.append(str(pathlib.Path(__file__).resolve().parent.parent))
 
 # Import local modules
 from utils_logger import logger
