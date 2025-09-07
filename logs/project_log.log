@@ -88,3 +88,24 @@
 2025-09-07 02:45:29.660 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
 2025-09-07 02:52:35.539 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
 2025-09-07 02:57:43.576 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-07 03:05:36.962 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-07 03:27:00.874 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-07 03:27:00.875 | INFO     | __main__:<module>:73 - Starting CSV processing...
+2025-09-07 03:27:00.875 | ERROR    | __main__:analyze_throughput:48 - Error processing CSV file: [Errno 2] No such file or directory: 'kristinesteele_data\\flight_data.csv'
+2025-09-07 03:27:00.879 | INFO     | __main__:process_csv_file:66 - Processed CSV file: kristinesteele_data\flight_data.csv, Statistics saved to: kristinesteele_data\flight_data_stats.txt
+2025-09-07 03:27:00.879 | INFO     | __main__:<module>:75 - CSV processing complete.
+2025-09-07 03:27:43.409 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-07 03:27:43.409 | INFO     | __main__:<module>:73 - Starting CSV processing...
+2025-09-07 03:27:43.409 | ERROR    | __main__:analyze_throughput:48 - Error processing CSV file: [Errno 2] No such file or directory: 'kristinesteele_data\\flight_data.csv'
+2025-09-07 03:27:43.411 | INFO     | __main__:process_csv_file:66 - Processed CSV file: kristinesteele_data\flight_data.csv, Statistics saved to: kristinesteele_data\flight_data_stats.txt
+2025-09-07 03:27:43.412 | INFO     | __main__:<module>:75 - CSV processing complete.
+2025-09-07 03:34:48,136 | INFO | Saved CSV file to kristinesteele_data\flight_data.csv
+2025-09-07 03:34:48,138 | INFO | Fetched CSV file from https://people.sc.fsu.edu/~jburkardt/data/csv/airtravel.csv to kristinesteele_data/flight_data.csv
+2025-09-07 03:37:54.326 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-07 03:37:54.327 | INFO     | __main__:<module>:82 - Starting CSV processing...
+2025-09-07 03:37:54.330 | INFO     | __main__:process_csv_file:75 - Processed CSV file: kristinesteele_data\flight_data.csv, Statistics saved to: kristinesteele_data\flight_data_stats.txt
+2025-09-07 03:37:54.331 | INFO     | __main__:<module>:84 - CSV processing complete.
+2025-09-07 03:42:50.324 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-07 03:42:50.325 | INFO     | __main__:<module>:82 - Starting CSV processing...
+2025-09-07 03:42:50.329 | INFO     | __main__:process_csv_file:75 - Processed CSV file: kristinesteele_data\flight_data.csv, Statistics saved to: kristinesteele_processed\flight_stats.txt
+2025-09-07 03:42:50.329 | INFO     | __main__:<module>:84 - CSV processing complete.

@@ -1,0 +1,19 @@
+Flight Data Statistics (Monthly Passenger Counts):
+
+ "1958" Statistics:
+  Minimum: 310
+  Maximum: 505
+  Mean: 381.00
+  Standard Deviation: 64.53
+
+ "1959" Statistics:
+  Minimum: 342
+  Maximum: 559
+  Mean: 428.33
+  Standard Deviation: 69.83
+
+ "1960" Statistics:
+  Minimum: 390
+  Maximum: 622
+  Mean: 476.17
+  Standard Deviation: 77.74
