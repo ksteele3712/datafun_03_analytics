@@ -1,5 +1,6 @@
 """
-Process a CSV file on 2020 Happiness ratings by country to analyze the `Ladder score` column and save statistics.
+Processes a CSV file on how many flights during 1958, 1959 & 1960 were being
+taken accordint to each month. Calculates min, max, mean, and stdev for each month.
 """
 
 #####################################

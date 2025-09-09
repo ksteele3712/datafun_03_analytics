@@ -1,5 +1,6 @@
 """
-Process an Excel file to count occurrences of 'GitHub' in a specific column and save the result.
+Process an Excel file to count occurrences of how many professional woman 
+soccer players scored 3 or more goals in column H and save the result.
 """
 
 #####################################

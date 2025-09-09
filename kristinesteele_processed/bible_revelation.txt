@@ -1,0 +1,11 @@
+Book of Revelation - Total word count: 821137
+Count of 'jesus': 984
+Count of 'death': 376
+Count of 'life': 453
+Count of 'love': 645
+Count of 'hope': 142
+Count of 'freedom': 2
+Count of 'joy': 216
+Count of 'satan': 56
+Count of 'victory': 12
+Count of 'crown': 85

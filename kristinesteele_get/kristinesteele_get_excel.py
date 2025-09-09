@@ -1,9 +1,8 @@
 """
-This example file fetches an Excel file from the web 
-and saves it to a local file named feedback.xlsx in a folder named example_data.
+This file fetches an Excel file from the web 
+and saves it to a local file named womans_pro_stas.xlsx in a folder named kristinesteele_data.
 
-Please save a copy of the provided utils_logger.py file 
-in the same folder as this file.
+It also converts a CSV file named 2024_nwsl_0525.csv in the same folder to an Excel file.
 """
 
 #####################################

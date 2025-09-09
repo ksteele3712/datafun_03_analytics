@@ -1,3 +1,12 @@
+"""
+This file fetches a CSV file from the web
+and saves it to a local file named flight_data.csv in a folder named kristinesteele_data.
+
+It also sets up logging to record the process.
+"""
+import requests
+from pathlib import Path
+import logging
 import requests
 from pathlib import Path
 import logging
