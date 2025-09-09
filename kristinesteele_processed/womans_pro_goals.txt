@@ -1,0 +1,1 @@
+Number of players with 3 or more goals in column H: 25

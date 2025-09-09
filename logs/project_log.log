@@ -120,3 +120,13 @@
 2025-09-08 23:26:04.727 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
 2025-09-08 23:27:09.677 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
 2025-09-08 23:27:10.110 | INFO     | __main__:main:63 - Converted kristinesteele_data/2024_nwsl_0525.csv to kristinesteele_data/womans_pro_stats.xlsx
+2025-09-08 23:39:48.338 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-08 23:39:48.770 | INFO     | __main__:main:63 - Converted kristinesteele_data/2024_nwsl_0525.csv to kristinesteele_data/womans_pro_stats.xlsx
+2025-09-08 23:49:17.141 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-08 23:49:17.141 | INFO     | __main__:<module>:61 - Starting Excel processing...
+2025-09-08 23:49:17.247 | INFO     | __main__:process_excel_file:54 - Processed Excel file: kristinesteele_data\womans_pro_stats.xlsx, Result saved to: kristinesteele_processed\womans_pro_goals.txt
+2025-09-08 23:49:17.247 | INFO     | __main__:<module>:63 - Excel processing complete.
+2025-09-08 23:52:54.383 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-08 23:52:54.384 | INFO     | __main__:<module>:61 - Starting Excel processing...
+2025-09-08 23:52:54.493 | INFO     | __main__:process_excel_file:54 - Processed Excel file: kristinesteele_data\womans_pro_stats.xlsx, Result saved to: kristinesteele_processed\womans_pro_goals.txt
+2025-09-08 23:52:54.494 | INFO     | __main__:<module>:63 - Excel processing complete.
